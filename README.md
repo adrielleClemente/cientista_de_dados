@@ -1,2 +1,2 @@
-# curso_cientista_de_dados
-Projetos e exercícios de análise de dados.
+# Curso Cientista de Dados
+Projetos e exercícios de análise de dados. 
