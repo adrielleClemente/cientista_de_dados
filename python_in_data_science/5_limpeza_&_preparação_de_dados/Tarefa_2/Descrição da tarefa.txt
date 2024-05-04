@@ -1,0 +1,22 @@
+Marcação de bom e mau
+O objetivo da modelagem é classificar o risco de inadimplência, ou como se diz no meio, o risco de default. Podemos fazer longas discussões sobre o conceito de default com base em estudos e exigências regulatórias, para efeitos deste estudo, um cliente em default é aquele que está em 60 dias de atraso ou mais. Então classificaremos os clientes como 'bons' e 'maus' assim:
+
+- Maus pagadores: são aqueles que entraram em 'default' (atraso 60 dias ou mais) nos 24 meses seguintes à aquisição do cartão de crédito.
+- Bons pagadores: são considerados todos os demais.
+- Excluídos: Clientes que não adquiriram um cartão de crédito (seja por recusa, seja por desistência) não possuem informações de pagamento, portanto não se pode identificar se são bons ou maus. Há uma longa discussão e literatura sobre inferência de rejeitados que está fora do escopo deste exercício.
+
+
+Tarefa 1) Marcar default no mês
+Faça uma indicadora de se o cliente está em default em cada uma das marcações (mes_00 a mes_24). Dica: você pode utilizar o método .isin() do Pandas. Consulte a documentação caso necessário.
+
+Tarefa 2) 'bons' e 'maus' ao longo de todos os 24 meses de desempenho
+Marque para cada cliente se ele teve pelo menos um episódio de default entre o mês 0 e o mês 24. Dica: o método sum() pode ajudar. Caso precise, consulte a documentação e procure pelo argumento axis, você viu outros métodos que possuem esse argumento também. Tendo o número de meses em default de cada cliente, basta marcar True para todos aqueles que possuem pelo menos 1 mês em default e False para os demais.
+
+Tarefa 3) Marcando proponentes expostos ao risco de crédito
+Marcando proponentes que se tornaram tomadores: lembre-se de que clientes que não adquiriram o cartão devem ser desconsiderados. A base de pagamentos possui apenas clientes que adquiriram cartão de crédito, então você pode selecionar somente os clientes da base de propostas que se encontram na base de pagamentos.
+
+Tarefa 4) Consolidando as informações
+Faça uma junção das informações da base de propostas com a variável de default que você acabou de construir. Talvez você consiga realizar a tarefa 3 e tarefa 4 em uma única linha de código ;)
+
+Tarefa 5) Verificando
+Faça uma contagem dos valores do default que você construiu.
