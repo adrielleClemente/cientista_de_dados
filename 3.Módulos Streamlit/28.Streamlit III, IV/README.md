@@ -2,7 +2,7 @@
 
 ➡️ Projeto para uma análise descritiva de um dataset em csv com deploy no [Render](https://render.com/).
 
-📂 Acesse o diretório [telemarketing]([link.pasta](https://github.com/adrielleClemente/cientista_de_dados/blob/main/3.M%C3%B3dulos%20Streamlit/28.Streamlit%20III,%20IV/telemarketing/README.md)) para detalhes.
+📂 Acesse o diretório [telemarketing](https://github.com/adrielleClemente/cientista_de_dados/blob/main/3.M%C3%B3dulos%20Streamlit/28.Streamlit%20III,%20IV/telemarketing/README.md) para detalhes.
 
 
 ## Descrição do projeto
