@@ -9,8 +9,8 @@ Exercícios e projetos ao longo da tragetória do curso, desde o python básico 
 ### 1. Python e Análise de Dados
 Contém práticas de fim de módulo, como tratamento de erros, programação orientada a objetos (POO) e análise descritiva com gráficos.
 
-- [Exercícios Resolvidos](link)
-- [Projeto Análise de Crédito](link)
+- [Exercícios Resolvidos](https://github.com/adrielleClemente/cientista_de_dados/tree/main/1.Python%20e%20An%C3%A1lise%20de%20Dados/Exerc%C3%ADcios%20Resolvidos)
+- [Projeto Análise de Crédito](https://github.com/adrielleClemente/cientista_de_dados/tree/main/1.Python%20e%20An%C3%A1lise%20de%20Dados/Projeto%20Final%20de%20An%C3%A1lise%20de%20Dados)
 
 ### 2. Ciência de Dados
 Estudos em métodos estatísticos e análises, incluindo inferência e visualização de dados. Prática com aprendizado de máquina, abordando árvores de decisão, regressão, clustering (K-means e hierárquicos) e redução de dimensionalidade (PCA).
