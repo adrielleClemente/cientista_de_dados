@@ -17,6 +17,8 @@ Estudos em métodos estatísticos e análises, incluindo inferência e visualiza
 
 Aprofundamento em regressão linear, logística e múltipla, combinação de modelos e análise de dados categorizados. Desempenho prático em PostgreSQL, scripting para automação e metodologias avançadas de análise.
 
+- [Ciência de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados)
+
 ### 3. Módulos Streamlit
 O módulo abordou o uso do Streamlit para o desenvolvimento de aplicações interativas com Python, permitindo a visualização e exploração de dados. 
 
