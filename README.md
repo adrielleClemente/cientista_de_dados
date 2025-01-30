@@ -22,5 +22,7 @@ O módulo abordou o uso do Streamlit para o desenvolvimento de aplicações inte
 
 Também incluiu técnicas de análise descritiva e clusterização com K-Means para segmentação e agrupamento de informações.
 
+- [Módulos Streamlit](https://github.com/adrielleClemente/cientista_de_dados/tree/main/3.M%C3%B3dulos%20Streamlit)
+
 
 ### 4. Projeto Semantix
