@@ -15,10 +15,6 @@ Vale lembrar que foi um projeto realizado dentro do curso de Cientista de Dados 
 
 * **Bibliotecas:** pandas, streamlit, seaborn, matplotlib, xlsxwriter.
 
-### Instalação
-
-* git clone https://github.com/adrielleClemente/telemarketing.git
-
 ### Executando o projeto
 
 Esse projeto foi rodado em um ambiente local anaconda para que eventuais modificações nas dependências não alterassem outros projetos.
