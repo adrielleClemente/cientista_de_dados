@@ -17,7 +17,7 @@ Ao final da criação do modelo, ele foi salvo em um arquivo pkl e usado para fa
 
 - Fonte dos Dados: Para treinar o modelo foi usado um dataset de credit scoring.
 
-## Parte do Código do Modelo
+## Modelo
 _Código completo no final do arquivo Mod38PyCaret.ipynb_
 
 ```python
