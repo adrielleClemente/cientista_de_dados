@@ -3,7 +3,7 @@
 
 
 ## Regressão Logística (PyCaret)
-Ao final da criação do modelo, ele foi salvo em um arquivo pkl e usado para fazer previsões de dados de um csv. Aplicação web finalizada no arquivo app_pycaret.py
+Ao final da criação do modelo, ele foi salvo em um arquivo pkl e usado para fazer previsões de dados de um csv. Aplicação web finalizada no arquivo ``app_pycaret.py``
 
 **1. Visão Geral do Projeto**
 
@@ -11,7 +11,7 @@ Ao final da criação do modelo, ele foi salvo em um arquivo pkl e usado para fa
 
 - Objetivo: Treinar um modelo de regressão logística (logistic regression) usando o [PyCaret](https://pycaret.org/).
 
-- Tecnologias: Python 3.11.11, PyCaret, Streamlit 1.36
+- Tecnologias: ``Python 3.11.11``, PyCaret, ``Streamlit 1.36``
 
 **2. Dados Utilizados**
 
