@@ -21,6 +21,7 @@ Aprofundamento em regressão linear, logística e múltipla, combinação de mod
 - [Ciência de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados)
 - [Métodos de Análise - Previsão de Renda](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/16.M%C3%A9todos%20de%20an%C3%A1lise)
 - [Concessão de Crédito - Crisp-DM](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/classifica_cretido_Crisp-DM#concess%C3%A3o-de-cr%C3%A9dito)
+- [Escorando o Modelo Gerado no pycaret](https://github.com/adrielleClemente/cientista_de_dados/tree/main/3.M%C3%B3dulos%20Streamlit/38.Streamlit%20VI%20e%20Pycaret)
 
 ### 3. Módulos Streamlit
 O módulo abordou o uso do Streamlit para o desenvolvimento de aplicações interativas com Python, permitindo a visualização e exploração de dados. 
