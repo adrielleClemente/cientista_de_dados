@@ -33,4 +33,5 @@ Também incluiu técnicas de análise descritiva e clusterização com K-Means p
 
 
 ### 4. Projeto Semantix
+🛠️
 - [Projeto Semantix](https://github.com/adrielleClemente/cientista_de_dados/tree/main/4.Projeto%20Semantix)
