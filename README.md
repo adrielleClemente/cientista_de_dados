@@ -33,5 +33,8 @@ Também incluiu técnicas de análise descritiva e clusterização com K-Means p
 
 
 ### 4. Projeto Semantix
-🛠️
+O projeto analisa os desembolsos mensais do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), com foco em identificar fatores que influenciam o indicador de inovação nos financiamentos concedidos.
+
 - [Projeto Semantix](https://github.com/adrielleClemente/cientista_de_dados/tree/main/4.Projeto%20Semantix)
+
+_em constante construção 🛠️_
