@@ -1,11 +1,11 @@
-# 📊 Portifófio Cientista de Dados
+# 📊 Portfófio Cientista de Dados
 Repositório com projetos produzidos no curso **Cientista de Dados** da **Escola Britânica de Artes Criativas & Tecnologia** (EBAC)
 
 - **Detalhes do Curso:** [Profissão: Cientista de Dados](https://ebaconline.com.br/cientista-de-dados)
 - **Confira meu Certificado:** [Certificado de conclusão de curso - Cientista deDados](https://drive.google.com/file/d/1-vAlTAzYOQr4pNx1-2QAlCm7xOQPTWjs/view?usp=sharing)
 
 
-## 📂 O Portifófio
+## 📂 O Portfófio
 Exercícios e projetos ao longo da tragetória do curso, desde o python básico até modelos de Machine Learning. Além da linguagem de programação python, também foi realizado práticas com SQL, veja meu projeto no **Kaggle**:
 - [Análise Exploratória de Dados - AWS](https://www.kaggle.com/code/adrielleclemente/an-lise-explorat-ria-de-dados-aws)
 
