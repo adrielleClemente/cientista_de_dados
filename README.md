@@ -1,5 +1,5 @@
 # 📊 Portfófio Cientista de Dados
-Repositório com projetos produzidos no curso **Cientista de Dados** da **Escola Britânica de Artes Criativas & Tecnologia** (EBAC)
+Repositório com **mais de 60 projetos** produzidos no curso **Cientista de Dados** da **Escola Britânica de Artes Criativas & Tecnologia** (EBAC)
 
 - **Detalhes do Curso:** [Profissão: Cientista de Dados](https://ebaconline.com.br/cientista-de-dados)
 - **Confira meu Certificado:** [Certificado de conclusão de curso - Cientista deDados](https://drive.google.com/file/d/1-vAlTAzYOQr4pNx1-2QAlCm7xOQPTWjs/view?usp=sharing)
