@@ -16,6 +16,6 @@ Este repositório reúne conteúdos e práticas desenvolvidas durante minha form
 - **Scripting e Automação**: Processamento de dados e construção de pipelines.  
 
 ## 🚀 Objetivo  
-Este repositório serve como um repositório de estudo e referência para técnicas de **Ciência de Dados**, com códigos e exemplos práticos que podem ser úteis para análise de dados, machine learning e tomada de decisão baseada em dados.  
+Este repositório serve referência para técnicas de **Ciência de Dados**, com códigos e exemplos práticos que podem ser úteis para análise de dados, machine learning e tomada de decisão baseada em dados.  
 
 🔗 **Contribuições e sugestões são bem-vindas!** 😊  
