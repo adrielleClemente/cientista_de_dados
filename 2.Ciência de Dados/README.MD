@@ -1,4 +1,4 @@
-# 📈 Ciência de Dados - Fundamentos e Aplicações  
+# 📈 Ciência de Dados - Nível Avançado  
 
 Este repositório reúne conteúdos e práticas desenvolvidas durante minha formação em **Ciência de Dados**, abrangendo desde conceitos fundamentais até técnicas avançadas de análise e modelagem de dados.  
 
