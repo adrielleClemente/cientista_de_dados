@@ -20,7 +20,7 @@ Estudos em métodos estatísticos e análises, incluindo inferência e visualiza
 
 Aprofundamento em regressão linear, logística e múltipla, combinação de modelos e análise de dados categorizados. Desempenho prático em PostgreSQL, scripting para automação e metodologias avançadas de análise.
 
-- [Ciência de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados)
+- [Todos os projetos de Ciência de Dados](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados)
 - [Métodos de Análise - Previsão de Renda](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/16.M%C3%A9todos%20de%20an%C3%A1lise)
 - [Concessão de Crédito - Crisp-DM](https://github.com/adrielleClemente/cientista_de_dados/tree/main/2.Ci%C3%AAncia%20de%20Dados/classifica_cretido_Crisp-DM#concess%C3%A3o-de-cr%C3%A9dito)
 
